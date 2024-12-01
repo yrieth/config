@@ -3,21 +3,21 @@ It can add, remove keys and modify, get values.
 The .conf files are alphabetically sorted by keys.
 
 .conf format:
-  key
-  value
+  key \n
+  value \n
 
 .conf example:
-  a
-  val
-  b
-  val1
-  c
-  val
-  d
-  val
-  e
-  val
-  f
-  val
-  size
-  50
+  a \n
+  val \n
+  b \n
+  val1 \n
+  c \n
+  val \n
+  d \n
+  val \n
+  e \n
+  val \n
+  f \n
+  val \n
+  size \n
+  50 \n
