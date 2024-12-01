@@ -2,11 +2,11 @@ A simple config reader.
 It can add, remove keys and modify, get values.
 The .conf files are alphabetically sorted by keys.
 
-.conf format:
+.conf format: <br />
   key <br />
   value <br />
 
-.conf example:
+.conf example: <br />
   a <br />
   val <br />
   b <br />
